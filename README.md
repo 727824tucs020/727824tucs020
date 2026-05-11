@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Andro 
 
-<!--
-**727824tucs020/727824tucs020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ BE CSE Student at Sri Krishna College of Technology  
+ Learning C++, Python, DSA, Web Development  
+ Interested in Software Development & AI/ML  
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Data Structures & Algorithms
+- Machine Learning
+- Web Development
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/andro-victoria-a-9701b3330
